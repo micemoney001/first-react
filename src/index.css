@@ -1,0 +1,70 @@
+/* p{
+  text-align: center;
+  padding: 10px;
+  background-color: yellow;
+} */
+ .ist{
+  background-color: green;
+  padding: 10px;
+  display: flex;
+ }
+ .koko{
+  background-color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  width: fit-content;
+  text-align: center;
+  padding: 10px;
+ }
+ .ioio{
+  background-color: palevioletred;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  width: fit-content;
+  text-align: center;
+  padding: 10px;
+ }
+ .popo{
+  background-color: darkblue;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  width: fit-content;
+  text-align: center;
+  padding: 10px;
+
+ }
+ .bobo{
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+ }
+.listt{
+  background-color: cadetblue;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+.listt ul{
+  justify-content: center;
+  display: flex;
+  justify-content: space-around;
+
+
+  padding: 10px;
+  list-style-type: none;
+
+}
+ul li{
+  margin: 3px;
+  padding: 20px;
+  background-color: yellow;
+  color: black;
+}
+.btn{
+  border: none;
+  padding: 10px 25px;
+}
